@@ -1,0 +1,44 @@
+_repo: The-Blue-Behemoth_62349
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Leydenfrost, Robert J.
+    aliases:
+    - Leydenfrost, Bob
+    - Leydenfrost, Robert Joseph
+    - Leydenfrost, Robert
+    - Leidenfrost, Bob
+    birthdate: 1925
+    deathdate: 1987
+    gutenberg_agent_id: '51901'
+    url: http://www.gutenberg.org/2009/agents/51901
+creator:
+  author:
+    agent_name: Brackett, Leigh
+    aliases:
+    - Brackett, Leigh Douglass
+    - Hamilton, Leigh Brackett
+    birthdate: 1915
+    deathdate: 1978
+    gutenberg_agent_id: '25398'
+    url: http://www.gutenberg.org/2009/agents/25398
+    wikipedia: https://en.wikipedia.org/wiki/Leigh_Brackett
+description: ''
+gutenberg_issued: '2020-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62349'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Venus (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Circus -- Fiction'
+- GITenberg
+title: The Blue Behemoth
+url: http://www.gutenberg.org/ebooks/62349
